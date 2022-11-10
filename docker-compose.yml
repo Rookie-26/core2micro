@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+ proyecto-univ:
+  container_name: proyecto-univ 
+  image: rookie26/coremicrov2
+  ports:
+   - "5001:5001"
+  networks:
+   - pycto-univ
+networks:
+ pycto-univ:
