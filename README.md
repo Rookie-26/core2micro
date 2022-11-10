@@ -1,4 +1,5 @@
-# proyecto-univ-core
+# core2micro
+### proyecto universidad - módulo core sin servicio Get Proyecto
 
 ### `npm start`
 Comando apra levantar la aplicación
@@ -15,4 +16,4 @@ Para la siguiente URL (router), sólo tiene lo servicios Post y Put:
 
 
 Este módulo core, también se encuentra en Docker Hub:
-https://hub.docker.com/r/rookie26/core1micross
+https://hub.docker.com/r/rookie26/coremicrov2
