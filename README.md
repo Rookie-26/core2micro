@@ -2,7 +2,7 @@
 ### proyecto universidad - módulo core sin servicio Get Proyecto
 
 ### `npm start`
-Comando apra levantar la aplicación
+Comando para levantar la aplicación
 Se abre en la URL http://localhost:5001/ de tu navegador
 
 Sirve para los siguientes URL (router) con sus respectos servicios de Get, Post y Put
