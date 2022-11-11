@@ -14,6 +14,8 @@ Sirve para los siguientes URL (router) con sus respectos servicios de Get, Post 
 Para la siguiente URL (router), sólo tiene lo servicios Post y Put:
 - http://localhost:5001/proyecto
 
+El microservicio de Proyecto (Get), se encuentra en: https://github.com/Rookie-26/microget
+
 
 Este módulo core, también se encuentra en Docker Hub:
 https://hub.docker.com/r/rookie26/coremicrov2
